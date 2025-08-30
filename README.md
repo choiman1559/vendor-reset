@@ -77,7 +77,7 @@ Please keep in mind that vendor-reset can only fix the bug before it occurs, not
 |AMD|Vega 20| Instinct MI100 |
 |AMD|Vega 20| 5700U Vega 8 |
 |AMD|Navi 10| 5600XT, 5700, 5700XT |
-|AMD|Navi 10| 780M Phoenix1 |
+|AMD|Navi 10| 780M Phoenix1, 680m Rembrandt |
 |AMD|Navi 12| Pro 5600M |
 |AMD|Navi 14| Pro 5300, RX 5300, 5500XT |
 |AMD|Navi 23|Radeon RX 6600/6600 XT/6600M |
